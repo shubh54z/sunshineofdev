@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunshineofdev
+- 👋 Hi, I’m @rajs6ygs
 - 👀 I’m interested in solidity
 - 🌱 I’m currently learning java, html, css, smart congrats
 
